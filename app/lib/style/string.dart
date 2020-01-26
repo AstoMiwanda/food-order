@@ -55,6 +55,9 @@ class Message {
 }
 
 class Images {
+//  Main Menu
+  static var mainMenu = "assets/images/main-menu/";
+  static var mainMenuBgHeader = mainMenu + "bg-header.png";
 
 }
 
